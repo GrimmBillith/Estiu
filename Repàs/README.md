@@ -9,8 +9,10 @@
 </p>
 
 #    
-
-***"Lo que faria jo per no fer-ne res..."***
+<p align="center">
+  
+  ***"Lo que faria jo per no fer-ne res..."***   
+</p>
 #   
 
 
