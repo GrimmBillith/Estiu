@@ -6,5 +6,5 @@
 ##
 ### Repàs
 
-1r. *Calculadora simple de 2 operands enters*
-2n. *Calculadora simple de 2 operands reals*
+1r. *Calculadora simple de 2 operands enters*   
+2n. *Calculadora simple de 2 operands reals*   
