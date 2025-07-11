@@ -9,9 +9,8 @@
 </p>
 
 #    
-<p align="center">
-  
-  ***"Lo que faria jo per no fer-ne res..."***   
+<p align="center">   
+  <strong><i>"Lo que faria jo per no fer-ne res...</i></strong>      
 </p>
 
 #   
