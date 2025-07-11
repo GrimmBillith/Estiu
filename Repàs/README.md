@@ -5,7 +5,7 @@
 #  
 
 <p align="center">
-  <img width="960" height="720" alt="image" src="https://github.com/user-attachments/assets/f523d55d-6e80-49f1-aff6-d24fd16a5b65" />
+  <img width="540" height="540" alt="image" src="https://github.com/user-attachments/assets/432469b5-369c-41a8-b6ac-73ab6e4fd47b" />
 </p>
 
 ***Lo que faria jo per no fer-ne res...***
