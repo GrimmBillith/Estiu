@@ -1,6 +1,6 @@
-<p align="center">
-  <strong>Repàs</strong>
-</p>
+<p align="center">  
+  <strong>Repàs</strong>   
+</p>   
 
 #  
 
