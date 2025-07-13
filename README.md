@@ -12,3 +12,6 @@
 
 1r. *Calculadora simple de 2 operands enters*   
 2n. *Calculadora simple de 2 operands reals*   
+3r. *Comptador i classificador de caràcters*    
+4t.    
+5é.    
