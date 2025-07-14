@@ -10,10 +10,13 @@ int main(){
     scanf("%d", &nombre);
     
     printf("Divisors del nombre %d:\n", nombre);
+    //! Comencem per par, si "i" es més petit o igual que la meitat de "nombre"...
     for (i = 2; i <= nombre / 2; i++) {
+        //? I si es pot dividir amb residu 0...
         if (nombre % i == 0) {
             printf("%d\n", i);
         }
+
     }
     
     return 0;
