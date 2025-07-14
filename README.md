@@ -25,5 +25,5 @@
 5é. *Trobar valor i observar-lo*                 
 [https://github.com/GrimmBillith/Estiu/blob/main/Rep%C3%A0s/Codi_E_Condicional.c]        
      
-6é. *Trobar m.c.m.*
+6é. *Trobar m.c.m. de qualsevol enter*   
 [https://github.com/GrimmBillith/Estiu/blob/main/Rep%C3%A0s/Codi_F_Bucle(For).c]
